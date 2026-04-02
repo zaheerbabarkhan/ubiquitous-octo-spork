@@ -11,3 +11,7 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+## Link to Render Deployed App
+
+[View Deployed App](https://ubiquitous-octo-spork-yxhn.onrender.com/)
